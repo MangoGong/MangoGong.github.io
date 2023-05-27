@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo Template
-subtitle: ''
-description: ''
+title: MangoGong的博客
+subtitle: 存着一些奇奇怪怪的东西(bushi
+description: 
 keywords:
-author: JiJi
-language: en
-timezone: ''
+author: MangoGong
+language: zh-CN
+timezone: Aisa/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://jiji.pro/hexo-template
+url: https://MangoGong.github.io
 permalink: :title/
 permalink_defaults:
 pretty_urls:
@@ -104,4 +104,4 @@ theme: landscape
 deploy:
   type: ''
 
-root: /hexo-template
+
