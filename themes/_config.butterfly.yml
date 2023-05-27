@@ -5,7 +5,7 @@
 nav:
   logo: https://imgse.com/i/p9LZlVA
   display_title: true
-  fixed: false # fixed navigation bar
+  fixed: true # fixed navigation bar
 
 # Menu 目錄
 menu:
@@ -391,13 +391,13 @@ addThis:
 # https://github.com/overtrue/share.js
 sharejs:
   enable: true
-  sites: facebook,twitter,wechat,weibo,qq
+  sites: facebook,twitter,qq
 
 # AddToAny
 # https://www.addtoany.com/
 addtoany:
   enable: false
-  item: facebook,twitter,wechat,sina_weibo,facebook_messenger,email,copy_link
+  item: facebook,twitter,facebook_messenger,email,copy_link
 
 # Comments System
 # --------------------------------------
